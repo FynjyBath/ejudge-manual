@@ -11,10 +11,14 @@
             "id": "ccfc22b6f21abbbe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tutorial/Создание и начальная настройка контеста.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Создание и начальная настройка контеста"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tutorial/Создание и начальная настройка контеста.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Создание и начальная настройка контеста"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tutorial/Создание и начальная настройка контеста.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Создание и начальная настройка контеста"
             }
           },
           {
@@ -136,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ejudge/Создание и начальная настройка контеста.md",
+                "file": "Tutorial/Создание и начальная настройка контеста.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -162,12 +168,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e98306136c0848ae",
+  "active": "ccfc22b6f21abbbe",
   "lastOpenFiles": [
+    "Pasted image 20250715113010.png",
+    "Pasted image 20250715112544.png",
+    "Pasted image 20250715110540.png",
+    "Pasted image 20250715105734.png",
+    "Pasted image 20250715105400.png",
+    "Pasted image 20250715104415.png",
+    "Ejudge/Создание и начальная настройка контеста.md",
     "Tutorial/Создание и начальная настройка контеста.md",
     "Tutorial",
     "Новая папка",
-    "Ejudge/Создание и начальная настройка контеста.md",
     "Ejudge",
     "Ejudge vault",
     "Pasted image 20250715101518.png"
