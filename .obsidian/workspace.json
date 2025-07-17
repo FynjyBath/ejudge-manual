@@ -78,6 +78,34 @@
             }
           },
           {
+            "id": "c420f798759100dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contests/!Нерабочий! Импорт задач из Polygon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "!Нерабочий! Импорт задач из Polygon"
+            }
+          },
+          {
+            "id": "d304534f509f8a49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contests/Импорт задач из Polygon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Импорт задач из Polygon"
+            }
+          },
+          {
             "id": "9af4cadb61689786",
             "type": "leaf",
             "state": {
@@ -92,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -239,11 +267,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "22162124d26a6dec",
+  "active": "d304534f509f8a49",
   "lastOpenFiles": [
+    "Contests/!Нерабочий! Импорт задач из Polygon.md",
+    "Contests/Импорт задач из Polygon.md",
+    "Без названия.md",
+    "Технические знания/Каталоги.md",
+    "Users/Группы.md",
+    "Технические знания",
     "Users/Редактирование пользователя.md",
     "Users/Создание пользователей.md",
-    "Users/Группы.md",
     "Pasted image 20250715162101.png",
     "Pasted image 20250715161834.png",
     "Pasted image 20250715161746.png",
@@ -252,11 +285,9 @@
     "Pasted image 20250715140231.png",
     "Users/Регистрация на контест.md",
     "Pasted image 20250715140113.png",
-    "Без названия",
     "Pasted image 20250715135759.png",
     "Pasted image 20250715135346.png",
     "Pasted image 20250715135237.png",
-    "Contests/Импорт задач из Polygon.md",
     "Users",
     "Contests/Создание и начальная настройка контеста.md",
     "Ejudge/Создание и начальная настройка контеста.md",
