@@ -11,9 +11,17 @@
 Для импорта задач воспользуемся московским скриптом https://github.com/grphil/polygon2ejudge. Для работы установить *golang* нужной версии.
 
 Пример запуска:
-*go run main.go ip 2 428076*
+*cd ~/polygon2ejudge*
+*go run main.go ip 3 428076*
 2 - номер контеста в ejudge
 428076 - *id* задачи из polygon
 Также можно аналогичным образом импортировать контесты, если они собраны в Polygon.
 
 При запуске необходимо ввести авторизационные данные. Они будут сохранены в чистом виде в "~/.config/polygon2ejudge/user_config.yaml", если что - удалять этот файл.
+
+Далее чтобы всё скомпилировалось, надо воспользоваться https://github.com/Gornak40/algolymp. Тоже *golang*.
+
+Пример запуска:
+*cd ~/algolymp/cmd/ejik*
+*go run main.go 3*
+3 - id контеста в ejudge
