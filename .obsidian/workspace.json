@@ -120,6 +120,20 @@
             }
           },
           {
+            "id": "80a0fab47ff014ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contests/Изменение настроек контеста.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Изменение настроек контеста"
+            }
+          },
+          {
             "id": "9af4cadb61689786",
             "type": "leaf",
             "state": {
@@ -134,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -281,10 +295,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "91dc12db76470e2e",
+  "active": "80a0fab47ff014ac",
   "lastOpenFiles": [
-    "Технические знания/Каталоги.md",
+    "Pasted image 20250718094422.png",
+    "Pasted image 20250718094329.png",
     "Contests/Импорт задач из Polygon.md",
+    "Contests/Изменение настроек контеста.md",
+    "Технические знания/Каталоги.md",
     "Contests/Создание и начальная настройка контеста.md",
     "Contests/!Нерабочий! Импорт задач из Polygon.md",
     "Технические знания/Параллельное тестирование и компиляция.md",
@@ -302,7 +319,6 @@
     "Pasted image 20250715140231.png",
     "Users/Регистрация на контест.md",
     "Pasted image 20250715140113.png",
-    "Pasted image 20250715135759.png",
     "Users",
     "Ejudge/Создание и начальная настройка контеста.md",
     "Contests",
